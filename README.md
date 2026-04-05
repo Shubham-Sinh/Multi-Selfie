@@ -1,3 +1,3 @@
 # Multi-Selfie
-multiple selfies can be taken at a time
-m 
+Multiple selfies can be taken at a time
+This allows the user to take multiple selfies at one point of  time 
